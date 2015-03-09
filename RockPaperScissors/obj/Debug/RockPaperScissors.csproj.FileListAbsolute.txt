@@ -1,0 +1,5 @@
+D:\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\RockPaperScissors.dll
+D:\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\RockPaperScissors.pdb
+D:\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+D:\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.dll
+D:\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
